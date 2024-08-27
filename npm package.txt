@@ -1,0 +1,1 @@
+npm install discord.js@14 @discordjs/voice ytdl-core libsodium-wrappers
